@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/mobiusengine-frontend/static/css/main.75aef4d2.css",
+    "main.js": "/mobiusengine-frontend/static/js/main.2a6f59ee.js",
+    "static/media/Gradient.png": "/mobiusengine-frontend/static/media/Gradient.7f66809e67b11f2513cd.png",
+    "static/media/BG.png": "/mobiusengine-frontend/static/media/BG.475c614b439235186f90.png",
+    "static/media/sora-latin-600-normal.woff": "/mobiusengine-frontend/static/media/sora-latin-600-normal.f7b0fb660c6c9383bddb.woff",
+    "static/media/dm-sans-latin-500-normal.woff": "/mobiusengine-frontend/static/media/dm-sans-latin-500-normal.b7cb88273f20693cb902.woff",
+    "static/media/dm-sans-latin-400-normal.woff": "/mobiusengine-frontend/static/media/dm-sans-latin-400-normal.693210afc0f6e924904e.woff",
+    "static/media/dm-sans-latin-600-normal.woff": "/mobiusengine-frontend/static/media/dm-sans-latin-600-normal.09c781f6a088d622e2f0.woff",
+    "static/media/sora-latin-600-normal.woff2": "/mobiusengine-frontend/static/media/sora-latin-600-normal.be83f4493a67d69baa56.woff2",
+    "static/media/dm-sans-latin-500-normal.woff2": "/mobiusengine-frontend/static/media/dm-sans-latin-500-normal.8e5cbda6448a54b5fa2e.woff2",
+    "static/media/dm-sans-latin-600-normal.woff2": "/mobiusengine-frontend/static/media/dm-sans-latin-600-normal.22220deee304ae8f1a51.woff2",
+    "static/media/dm-sans-latin-400-normal.woff2": "/mobiusengine-frontend/static/media/dm-sans-latin-400-normal.d6dd259ebf3e3a66be69.woff2",
+    "static/media/dm-sans-latin-ext-500-normal.woff": "/mobiusengine-frontend/static/media/dm-sans-latin-ext-500-normal.a5597f32bb0a224fe58d.woff",
+    "static/media/dm-sans-latin-ext-600-normal.woff": "/mobiusengine-frontend/static/media/dm-sans-latin-ext-600-normal.bce5d7333ce1007f3e23.woff",
+    "static/media/dm-sans-latin-ext-400-normal.woff": "/mobiusengine-frontend/static/media/dm-sans-latin-ext-400-normal.413af63a119bbef9e8cd.woff",
+    "static/media/sora-latin-ext-600-normal.woff": "/mobiusengine-frontend/static/media/sora-latin-ext-600-normal.d72c6ed0baf6ba988a9c.woff",
+    "static/media/sora-latin-ext-600-normal.woff2": "/mobiusengine-frontend/static/media/sora-latin-ext-600-normal.1e50d5a4c70175388a3e.woff2",
+    "static/media/dm-sans-latin-ext-500-normal.woff2": "/mobiusengine-frontend/static/media/dm-sans-latin-ext-500-normal.0396aed0892e5fa31e30.woff2",
+    "static/media/dm-sans-latin-ext-600-normal.woff2": "/mobiusengine-frontend/static/media/dm-sans-latin-ext-600-normal.2d0528dc251814e33932.woff2",
+    "static/media/dm-sans-latin-ext-400-normal.woff2": "/mobiusengine-frontend/static/media/dm-sans-latin-ext-400-normal.f65533d614ce4031f8a9.woff2",
+    "index.html": "/mobiusengine-frontend/index.html",
+    "main.75aef4d2.css.map": "/mobiusengine-frontend/static/css/main.75aef4d2.css.map",
+    "main.2a6f59ee.js.map": "/mobiusengine-frontend/static/js/main.2a6f59ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75aef4d2.css",
+    "static/js/main.2a6f59ee.js"
+  ]
+}
